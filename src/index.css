@@ -1,0 +1,18 @@
+.card {
+    min-width: 600px;
+}
+.instructions h6 {
+    color:blueviolet;
+    font-weight: bolder;
+    padding-top: 10px;
+}
+.instructions p {
+    text-align: justify;
+    font-weight: bolder;
+}
+.card h3 {
+    text-shadow: 0.1em 0.1em 0.05em rgb(0, 238, 255);
+}
+.card {
+    box-shadow: 0px 10px 10px -6px black;
+}
